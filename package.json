@@ -1,0 +1,11 @@
+{
+  "name": "newman-vcs",
+  "version": "0.0.1",
+  "description": "An adapter for newman to allow managing Postman/newman data with a VCS and launch collections and tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neuromobile - Marketing Activo Inteligente S.L.",
+  "license": "MIT"
+}
