@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Neuromobile/newman-vcs.git"
+  },
   "author": "Neuromobile - Marketing Activo Inteligente S.L.",
   "license": "MIT",
   "dependencies": {
-    "newman-vcs-parser": "0.0.1"
-  }
+    "newman-vcs-parser": "0.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Neuromobile/newman-vcs-parser/issues"
+  },
+  "homepage": "https://github.com/Neuromobile/newman-vcs-parser#readme"
 }
