@@ -1,6 +1,6 @@
 {
   "name": "newman-vcs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An adapter for newman to allow managing Postman/newman data with a VCS and launch collections and tests",
   "main": "index.js",
   "scripts": {
